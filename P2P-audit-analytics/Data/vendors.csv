@@ -1,0 +1,121 @@
+vendor_id,vendor_name,category,city,payment_terms_days,bank_account,onboarded_date
+V0001,Vendor 1 Pvt Ltd,IT Services,Chennai,30,846485753394,2019-07-28
+V0002,Vendor 2 Pvt Ltd,Marketing,Hyderabad,45,817135379492,2022-10-28
+V0003,Vendor 3 Pvt Ltd,Raw Material,Hyderabad,15,309376667769,2022-06-21
+V0004,Vendor 4 Pvt Ltd,Consulting,Chennai,30,577692631539,2019-06-29
+V0005,Vendor 5 Pvt Ltd,Consulting,Kolkata,15,645414238630,2022-03-24
+V0006,Vendor 6 Pvt Ltd,Marketing,Pune,30,880965058398,2019-06-25
+V0007,Vendor 7 Pvt Ltd,IT Services,Mumbai,30,642796441604,2021-12-17
+V0008,Vendor 8 Pvt Ltd,Raw Material,Kolkata,30,471314412346,2019-05-12
+V0009,Vendor 9 Pvt Ltd,Office Supplies,Pune,30,436765639066,2021-01-02
+V0010,Vendor 10 Pvt Ltd,IT Services,Hyderabad,30,483293877736,2021-09-13
+V0011,Vendor 11 Pvt Ltd,Facilities,Pune,30,686737923021,2021-12-29
+V0012,Vendor 12 Pvt Ltd,Legal,Pune,60,880741568577,2020-09-19
+V0013,Vendor 13 Pvt Ltd,Raw Material,Mumbai,30,508507193868,2022-10-14
+V0014,Vendor 14 Pvt Ltd,Marketing,Pune,30,323055606656,2022-03-07
+V0015,Vendor 15 Pvt Ltd,Raw Material,Kolkata,30,312996126697,2019-11-09
+V0016,Vendor 16 Pvt Ltd,Marketing,Bengaluru,15,771412852219,2021-10-03
+V0017,Vendor 17 Pvt Ltd,Facilities,Pune,60,834911887081,2021-12-31
+V0018,Vendor 18 Pvt Ltd,Office Supplies,Mumbai,30,194750271868,2020-05-15
+V0019,Vendor 19 Pvt Ltd,Marketing,Bengaluru,45,159902971259,2022-01-12
+V0020,Vendor 20 Pvt Ltd,Consulting,Chennai,15,634990297380,2022-09-09
+V0021,Vendor 21 Pvt Ltd,Facilities,Ahmedabad,30,231555919773,2022-05-10
+V0022,Vendor 22 Pvt Ltd,Logistics,Delhi,30,842197771410,2022-02-17
+V0023,Vendor 23 Pvt Ltd,Office Supplies,Bengaluru,60,379301206531,2021-08-09
+V0024,Vendor 24 Pvt Ltd,Legal,Chennai,30,229484739674,2020-02-10
+V0025,Vendor 25 Pvt Ltd,Marketing,Ahmedabad,30,928873425238,2022-04-07
+V0026,Vendor 26 Pvt Ltd,Raw Material,Kolkata,30,248978550461,2020-06-30
+V0027,Vendor 27 Pvt Ltd,Consulting,Mumbai,30,356248074104,2021-03-09
+V0028,Vendor 28 Pvt Ltd,Marketing,Delhi,30,238252055672,2020-04-16
+V0029,Vendor 29 Pvt Ltd,Facilities,Kolkata,30,203941057298,2020-04-14
+V0030,Vendor 30 Pvt Ltd,Consulting,Mumbai,15,119033214702,2019-08-25
+V0031,Vendor 31 Pvt Ltd,Consulting,Kolkata,45,149855868247,2022-12-12
+V0032,Vendor 32 Pvt Ltd,Office Supplies,Bengaluru,60,257177323842,2019-08-10
+V0033,Vendor 33 Pvt Ltd,IT Services,Ahmedabad,30,148043739364,2019-05-10
+V0034,Vendor 34 Pvt Ltd,Facilities,Bengaluru,30,632029434499,2022-11-05
+V0035,Vendor 35 Pvt Ltd,Legal,Chennai,30,712643074119,2021-04-12
+V0036,Vendor 36 Pvt Ltd,IT Services,Hyderabad,45,454267411148,2020-10-18
+V0037,Vendor 37 Pvt Ltd,Marketing,Delhi,30,386191987256,2022-01-11
+V0038,Vendor 38 Pvt Ltd,Marketing,Pune,45,554073613320,2020-07-28
+V0039,Vendor 39 Pvt Ltd,Logistics,Pune,45,887504448011,2019-07-11
+V0040,Vendor 40 Pvt Ltd,Raw Material,Kolkata,45,866018464139,2021-12-30
+V0041,Vendor 41 Pvt Ltd,Office Supplies,Ahmedabad,30,139127555811,2019-09-21
+V0042,Vendor 42 Pvt Ltd,Marketing,Hyderabad,60,139127555811,2021-04-09
+V0043,Vendor 43 Pvt Ltd,Raw Material,Chennai,30,313070383993,2022-11-24
+V0044,Vendor 44 Pvt Ltd,Logistics,Chennai,15,324448818248,2022-11-05
+V0045,Vendor 45 Pvt Ltd,IT Services,Chennai,30,614109386568,2020-06-25
+V0046,Vendor 46 Pvt Ltd,Legal,Kolkata,30,474636183132,2022-03-16
+V0047,Vendor 47 Pvt Ltd,Consulting,Bengaluru,45,144328707934,2021-07-08
+V0048,Vendor 48 Pvt Ltd,Legal,Delhi,45,436252724613,2020-12-20
+V0049,Vendor 49 Pvt Ltd,Raw Material,Bengaluru,30,571377653845,2019-07-29
+V0050,Vendor 50 Pvt Ltd,Marketing,Mumbai,60,191504712613,2020-07-18
+V0051,Vendor 51 Pvt Ltd,Marketing,Mumbai,30,850112698409,2021-09-04
+V0052,Vendor 52 Pvt Ltd,Office Supplies,Mumbai,30,146765679818,2023-01-19
+V0053,Vendor 53 Pvt Ltd,Logistics,Kolkata,30,932357682116,2019-01-08
+V0054,Vendor 54 Pvt Ltd,Consulting,Hyderabad,60,189201827421,2021-12-12
+V0055,Vendor 55 Pvt Ltd,Consulting,Hyderabad,30,859217456437,2022-06-23
+V0056,Vendor 56 Pvt Ltd,IT Services,Chennai,15,912387829534,2022-11-27
+V0057,Vendor 57 Pvt Ltd,Facilities,Hyderabad,30,981613612527,2020-09-27
+V0058,Vendor 58 Pvt Ltd,Office Supplies,Delhi,60,821823292246,2019-06-27
+V0059,Vendor 59 Pvt Ltd,Raw Material,Ahmedabad,60,801529786694,2020-02-11
+V0060,Vendor 60 Pvt Ltd,Raw Material,Pune,45,678234948395,2022-06-29
+V0061,Vendor 61 Pvt Ltd,Legal,Ahmedabad,60,880965058398,2022-08-09
+V0062,Vendor 62 Pvt Ltd,Raw Material,Delhi,60,221096987571,2021-08-13
+V0063,Vendor 63 Pvt Ltd,Logistics,Chennai,30,582461232352,2019-07-04
+V0064,Vendor 64 Pvt Ltd,Legal,Hyderabad,30,562800583171,2019-07-02
+V0065,Vendor 65 Pvt Ltd,Consulting,Chennai,45,871814929710,2020-12-18
+V0066,Vendor 66 Pvt Ltd,Logistics,Chennai,45,516519429034,2021-06-01
+V0067,Vendor 67 Pvt Ltd,Legal,Delhi,30,446580546490,2019-02-18
+V0068,Vendor 68 Pvt Ltd,Logistics,Chennai,15,675606944113,2021-10-26
+V0069,Vendor 69 Pvt Ltd,IT Services,Delhi,45,339816985750,2021-03-27
+V0070,Vendor 70 Pvt Ltd,Consulting,Bengaluru,30,225791569858,2019-01-19
+V0071,Vendor 71 Pvt Ltd,Marketing,Hyderabad,60,530089546621,2019-05-24
+V0072,Vendor 72 Pvt Ltd,Office Supplies,Hyderabad,30,475200431735,2020-11-12
+V0073,Vendor 73 Pvt Ltd,Consulting,Pune,30,309312946475,2021-12-19
+V0074,Vendor 74 Pvt Ltd,Office Supplies,Bengaluru,45,430760629103,2022-05-23
+V0075,Vendor 75 Pvt Ltd,Raw Material,Ahmedabad,30,429753204843,2020-10-08
+V0076,Vendor 76 Pvt Ltd,Consulting,Mumbai,30,394746007971,2020-03-19
+V0077,Vendor 77 Pvt Ltd,Logistics,Bengaluru,30,441517671754,2022-12-23
+V0078,Vendor 78 Pvt Ltd,Office Supplies,Mumbai,60,159902971259,2020-11-18
+V0079,Vendor 79 Pvt Ltd,Facilities,Bengaluru,30,367188827114,2020-04-18
+V0080,Vendor 80 Pvt Ltd,Raw Material,Ahmedabad,30,953972134043,2020-10-25
+V0081,Vendor 81 Pvt Ltd,Legal,Bengaluru,45,924713217584,2019-01-19
+V0082,Vendor 82 Pvt Ltd,Consulting,Ahmedabad,60,532819385470,2020-03-28
+V0083,Vendor 83 Pvt Ltd,Office Supplies,Chennai,30,395525084504,2021-02-12
+V0084,Vendor 84 Pvt Ltd,Marketing,Hyderabad,30,581891310847,2022-10-09
+V0085,Vendor 85 Pvt Ltd,Raw Material,Chennai,15,863704439896,2022-01-12
+V0086,Vendor 86 Pvt Ltd,Raw Material,Bengaluru,30,687328606504,2022-03-17
+V0087,Vendor 87 Pvt Ltd,IT Services,Kolkata,30,823952645152,2021-03-28
+V0088,Vendor 88 Pvt Ltd,Logistics,Ahmedabad,45,579450048459,2019-06-15
+V0089,Vendor 89 Pvt Ltd,Marketing,Bengaluru,30,669625866340,2020-08-09
+V0090,Vendor 90 Pvt Ltd,Marketing,Kolkata,30,359340052764,2023-02-04
+V0091,Vendor 91 Pvt Ltd,Consulting,Bengaluru,45,761403846079,2019-03-08
+V0092,Vendor 92 Pvt Ltd,Marketing,Hyderabad,30,282164133813,2022-08-11
+V0093,Vendor 93 Pvt Ltd,Marketing,Kolkata,30,725318315936,2021-10-23
+V0094,Vendor 94 Pvt Ltd,Consulting,Chennai,45,874647161493,2020-03-01
+V0095,Vendor 95 Pvt Ltd,Legal,Hyderabad,45,218892553571,2022-03-12
+V0096,Vendor 96 Pvt Ltd,Logistics,Bengaluru,45,652941766487,2022-06-09
+V0097,Vendor 97 Pvt Ltd,Office Supplies,Mumbai,30,185586173406,2019-03-06
+V0098,Vendor 98 Pvt Ltd,Raw Material,Mumbai,30,753144065444,2019-06-09
+V0099,Vendor 99 Pvt Ltd,Raw Material,Chennai,60,176043896941,2021-09-25
+V0100,Vendor 100 Pvt Ltd,Office Supplies,Ahmedabad,30,942345840430,2023-02-07
+V0101,Vendor 101 Pvt Ltd,Marketing,Delhi,30,223667137034,2019-02-05
+V0102,Vendor 102 Pvt Ltd,Office Supplies,Chennai,30,632029434499,2021-09-25
+V0103,Vendor 103 Pvt Ltd,Marketing,Hyderabad,45,820795758476,2019-07-24
+V0104,Vendor 104 Pvt Ltd,IT Services,Delhi,60,634313804019,2021-09-02
+V0105,Vendor 105 Pvt Ltd,Marketing,Hyderabad,30,804361694166,2021-07-23
+V0106,Vendor 106 Pvt Ltd,Marketing,Bengaluru,60,815603355084,2019-05-16
+V0107,Vendor 107 Pvt Ltd,Marketing,Kolkata,15,951424356535,2021-10-18
+V0108,Vendor 108 Pvt Ltd,Raw Material,Pune,30,328045018455,2022-09-07
+V0109,Vendor 109 Pvt Ltd,Consulting,Pune,45,631068305822,2022-07-19
+V0110,Vendor 110 Pvt Ltd,Raw Material,Delhi,30,185544277807,2019-02-13
+V0111,Vendor 111 Pvt Ltd,Logistics,Chennai,30,654549130021,2020-01-04
+V0112,Vendor 112 Pvt Ltd,Marketing,Kolkata,30,254162173683,2019-12-28
+V0113,Vendor 113 Pvt Ltd,Facilities,Mumbai,60,608455550325,2020-11-10
+V0114,Vendor 114 Pvt Ltd,Consulting,Kolkata,30,615187462630,2019-08-03
+V0115,Vendor 115 Pvt Ltd,Facilities,Chennai,60,519386637683,2022-07-05
+V0116,Vendor 116 Pvt Ltd,Facilities,Hyderabad,45,570368597961,2022-03-11
+V0117,Vendor 117 Pvt Ltd,IT Services,Hyderabad,30,787531051005,2022-04-27
+V0118,Vendor 118 Pvt Ltd,Office Supplies,Chennai,45,819320244860,2019-10-25
+V0119,Vendor 119 Pvt Ltd,Office Supplies,Bengaluru,15,542937894017,2019-01-22
+V0120,Vendor 120 Pvt Ltd,IT Services,Hyderabad,30,639634097370,2022-09-27
